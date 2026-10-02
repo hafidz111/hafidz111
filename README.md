@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Local Self-Hosted Header: High-res Vector Banner (Zero Third-Party Dependency) -->
-<img src="assets/header.svg" width="100%" alt="Hafidz - Mobile Developer" />
+<img src="assets/header.svg" width="100%" alt="Hafidz - Mobile &amp; Fullstack Developer" />
 
 <br/><br/>
 
 <!-- Dynamic Terminal Typing Animation -->
 <a href="https://github.com/hafidz111">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=1D70F5&center=true&vCenter=true&width=750&height=45&lines=Mobile+Developer+%C2%B7+Android+%26+Flutter;Building+High-Performance+Native+%26+Cross-Platform+Apps;Clean+Architecture+%C2%B7+Jetpack+Compose+%C2%B7+Offline-First;Creator+of+Starvy+(3.2k%2B+Organic+Installs)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=1D70F5&center=true&vCenter=true&width=750&height=45&lines=Mobile+%26+Fullstack+Developer;Native+Android+(Kotlin)+%26+Cross-Platform+Flutter;Scalable+Backends+with+Go+%26+Python;Clean+Architecture+%C2%B7+Offline-First+%C2%B7+REST+APIs;Creator+of+Starvy+(3.2k%2B+Organic+Installs)" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,17 +18,18 @@
 <table border="0" width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="62%" valign="top" style="border: none; padding-right: 20px;">
-      <h3>Engineering responsive, reliable mobile experiences.</h3>
+      <h3>Engineering end-to-end mobile &amp; distributed systems.</h3>
       <p>
-        I am a <b>Mobile Developer</b> specializing in engineering robust, high-performance applications across native <b>Android (Kotlin, Jetpack Compose)</b> and cross-platform <b>Flutter</b>.
+        I am a <b>Mobile &amp; Fullstack Developer</b> specializing in engineering robust, high-performance applications—from native <b>Android (Kotlin, Jetpack Compose)</b> and cross-platform <b>Flutter</b> clients to scalable backend services in <b>Go</b> and <b>Python (Django Ninja)</b>.
       </p>
       <p>
         My work emphasizes maintainable Clean Architecture, deterministic state management, responsive UI design, and resilient offline-first data handling that guarantees seamless user experience even with intermittent connectivity.
       </p>
       <ul>
-        <li><b>Core Specialization:</b> Native Android (Kotlin, Compose) &amp; Cross-Platform (Flutter)</li>
-        <li><b>Architecture &amp; Quality:</b> Clean Architecture, MVVM, Offline-First, Reactive State</li>
-        <li><b>Proven Traction:</b> Over 3,200+ organic Play Store installs across production apps</li>
+        <li><b>Mobile Engineering:</b> Native Android (Kotlin, Jetpack Compose) &amp; Cross-Platform (Flutter)</li>
+        <li><b>Fullstack &amp; Backend:</b> Go (Golang), Python (Django Ninja), React / Next.js, PostgreSQL, Docker</li>
+        <li><b>Architecture &amp; Quality:</b> Clean Architecture, MVVM, Offline-First Sync, RESTful APIs</li>
+        <li><b>Proven Traction:</b> Over 3,200+ organic Play Store installs &amp; deployed production web platforms</li>
       </ul>
     </td>
     <td width="38%" align="center" valign="middle" style="border: none;">
