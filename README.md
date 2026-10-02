@@ -50,9 +50,9 @@
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/hafidz111">Starvy</a></h4>
-      <p><b>Mobile POS & Retail Inventory Intelligence</b></p>
-      <p>Native mobile retail management platform built for zero-friction transaction flows and local storage reliability. Achieved <b>3,200+ organic downloads</b> on Google Play Store with proven production retention.</p>
-      <p><code>Kotlin</code> · <code>Android SDK</code> · <code>SQLite</code> · <code>Offline Sync</code></p>
+      <p><b>AI-Powered Mobile Chat &amp; Messaging Platform</b></p>
+      <p>Native Android conversational application integrating real-time messaging with contextual AI assistance. Achieved over <b>3,200+ organic downloads</b> on Google Play Store with sustained user retention.</p>
+      <p><code>Android (Kotlin)</code> · <code>AI Assistant Integration</code> · <code>Real-Time Messaging</code> · <code>REST API</code></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/hafidz111/dicoding-jobs">Dicoding Jobs</a></h4>
