@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Local Self-Hosted Header: High-res Vector Banner (Zero Third-Party Dependency) -->
-<img width="1280" height="420" alt="Hafidz - Mobile &amp; Fullstack Developer" src="https://github.com/user-attachments/assets/9e75f5ed-fac9-4d7e-8d6f-a9f065cc164e" />
+<img width="1280" height="420" alt="Hafidz - Mobile &amp; Fullstack Developer" src="https://github.com/user-attachments/assets/2ffd0256-7bc5-4125-89b8-6bc2f07e16a2" />
 
 <br/><br/>
 
