@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- Hero Banner: Dynamic Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1D70F5&height=180&section=header&text=Hafidz&fontSize=42&fontAlignY=38&desc=Pure%20Mathematics%20%E2%86%92%20Systems%20%26%20Software%20Architecture&descAlignY=58&descSize=16&fontColor=ffffff" width="100%" alt="Header Banner" />
+<!-- Local Self-Hosted Header: High-res Vector Banner (Zero Third-Party Dependency) -->
+<img src="assets/header.svg" width="100%" alt="Hafidz - Mobile Developer" />
+
+<br/><br/>
 
 <!-- Dynamic Terminal Typing Animation -->
 <a href="https://github.com/hafidz111">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=1D70F5&center=true&vCenter=true&width=700&height=45&lines=Pure+Mathematics+%E2%86%92+Distributed+Systems+%26+Mobile+Engineering;Graduate+Student+in+Computer+Science+%40+UGM;Building+Reliable+Offline-First+PWAs+%26+High-Throughput+APIs;Creator+of+Starvy+(3.2k%2B+Organic+Installs)+%26+Kasatu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=1D70F5&center=true&vCenter=true&width=750&height=45&lines=Mobile+Developer+%C2%B7+Android+%26+Flutter;Building+High-Performance+Native+%26+Cross-Platform+Apps;Clean+Architecture+%C2%B7+Jetpack+Compose+%C2%B7+Offline-First;Creator+of+Starvy+(3.2k%2B+Organic+Installs)" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,17 +18,17 @@
 <table border="0" width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="62%" valign="top" style="border: none; padding-right: 20px;">
-      <h3>Architecting systems with mathematical rigor.</h3>
+      <h3>Engineering responsive, reliable mobile experiences.</h3>
       <p>
-        I am a graduate student in <b>Computer Science at Universitas Gadjah Mada (UGM)</b> with an academic foundation in <b>Pure Mathematics</b>. My engineering practice centers on translating structural mathematical principles into high-reliability distributed systems, state-machine-driven backends, and responsive offline-first mobile applications.
+        I am a <b>Mobile Developer</b> specializing in engineering robust, high-performance applications across native <b>Android (Kotlin, Jetpack Compose)</b> and cross-platform <b>Flutter</b>.
       </p>
       <p>
-        Currently researching distributed state synchronization, resilient API architectures, and zero-latency local-first paradigms.
+        My work emphasizes maintainable Clean Architecture, deterministic state management, responsive UI design, and resilient offline-first data handling that guarantees seamless user experience even with intermittent connectivity.
       </p>
       <ul>
-        <li><b>Academic Focus:</b> Advanced Computational Systems & Algorithms @ UGM</li>
-        <li><b>Core Philosophy:</b> Deterministic state over speculative patches; telemetry over intuition</li>
-        <li><b>Active Engineering:</b> Offline-first synchronization, high-concurrency Go services, native Android/Flutter</li>
+        <li><b>Core Specialization:</b> Native Android (Kotlin, Compose) &amp; Cross-Platform (Flutter)</li>
+        <li><b>Architecture &amp; Quality:</b> Clean Architecture, MVVM, Offline-First, Reactive State</li>
+        <li><b>Proven Traction:</b> Over 3,200+ organic Play Store installs across production apps</li>
       </ul>
     </td>
     <td width="38%" align="center" valign="middle" style="border: none;">
@@ -43,21 +45,21 @@
 
 ---
 
-### Featured Deployments & Systems
+### Featured Deployments & Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/hafidz111">Starvy</a></h4>
-      <p><b>Mobile POS & Inventory Intelligence System</b></p>
-      <p>A native mobile retail management platform built for zero-friction transaction flows and local storage reliability. Gained <b>3,200+ organic downloads</b> on Google Play Store with proven production retention.</p>
+      <p><b>Mobile POS & Retail Inventory Intelligence</b></p>
+      <p>Native mobile retail management platform built for zero-friction transaction flows and local storage reliability. Achieved <b>3,200+ organic downloads</b> on Google Play Store with proven production retention.</p>
       <p><code>Kotlin</code> · <code>Android SDK</code> · <code>SQLite</code> · <code>Offline Sync</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/hafidz111">Kasatu</a></h4>
-      <p><b>Offline-First Wealth & Finance Engine</b></p>
-      <p>Clean, zero-slop personal asset ledger engineered around Dexie.js client-side indexed storage and Django Ninja REST API. Features non-blocking delta synchronization and deterministic balance tracking.</p>
-      <p><code>Python / Django Ninja</code> · <code>Dexie (IndexedDB)</code> · <code>PostgreSQL</code> · <code>PWA</code></p>
+      <h4><a href="https://github.com/hafidz111/dicoding-jobs">Dicoding Jobs</a></h4>
+      <p><b>Tech Career & Vacancy Exploration Platform</b></p>
+      <p>Streamlined job discovery platform featuring intuitive search filtering, comprehensive job specifications, and responsive client-server communication backed by RESTful endpoints.</p>
+      <p><code>TypeScript</code> · <code>React / Next.js</code> · <code>REST API</code> · <code>Tailwind CSS</code></p>
     </td>
   </tr>
   <tr>
@@ -68,10 +70,10 @@
       <p><code>Go (Golang)</code> · <code>Next.js / React</code> · <code>PostgreSQL</code> · <code>MinIO S3</code> · <code>Docker</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/hafidz111">Flood'nt</a></h4>
-      <p><b>Real-Time IoT Hydrological Telemetry</b></p>
+      <h4><a href="https://github.com/hafidz111/flood-detection">Flood'nt</a></h4>
+      <p><b>Real-Time IoT Hydrological Telemetry & Alert App</b></p>
       <p>Early-warning flood telemetry platform bridging physical water-level sensors with real-time stream ingestion and immediate mobile push dispatch for rapid flood awareness.</p>
-      <p><code>IoT Sensors</code> · <code>Firebase Streams</code> · <code>Flutter</code> · <code>Telemetry</code></p>
+      <p><code>Flutter</code> · <code>Firebase Streams</code> · <code>IoT Sensors</code> · <code>Push Alerts</code></p>
     </td>
   </tr>
 </table>
@@ -86,10 +88,10 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages & Core** | `Go (Golang)` · `Python` · `Kotlin` · `Dart` · `TypeScript` · `SQL` |
-| **Backend & Distributed Systems** | `Django Ninja` · `Go HTTP/Fiber` · `PostgreSQL` · `Redis` · `Docker` |
-| **Mobile & Client Architecture** | `Flutter` · `Jetpack Compose` · `React / Next.js` · `Dexie.js (IndexedDB)` |
-| **Foundational Principles** | `Applied Discrete Mathematics` · `Finite State Machines` · `Offline-First Sync` |
+| **Mobile Engineering** | `Kotlin` · `Jetpack Compose` · `Android SDK` · `Flutter` · `Dart` |
+| **Architecture & Local Data** | `Clean Architecture` · `MVVM` · `Room / SQLite` · `Offline-First Sync` · `State Management` |
+| **Backend & APIs** | `Python (Django Ninja)` · `Go (Golang)` · `REST APIs` · `PostgreSQL` · `Firebase` |
+| **Tools & Platforms** | `Git` · `Docker` · `Google Play Console` · `CI/CD Workflows` |
 
 </div>
 
@@ -123,16 +125,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidz111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D70F5&text_color=C9D1D9" height="165" alt="Top Languages" />
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/hafidz111">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafidz111&theme=tokyonight&hide_border=true&background=0D1117&ring=1D70F5&fire=1D70F5&currStreakNum=ffffff" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Designed with precision · Pure Math × Software Engineering</sub>
 </div>
