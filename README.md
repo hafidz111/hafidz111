@@ -7,7 +7,7 @@
 
 <!-- Dynamic Terminal Typing Animation -->
 <a href="https://github.com/hafidz111">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=1D70F5&center=true&vCenter=true&width=750&height=45&lines=Mobile+%26+Fullstack+Developer;Native+Android+(Kotlin)+%26+Cross-Platform+Flutter;Scalable+Backends+with+Go+%26+Python;Clean+Architecture+%C2%B7+Offline-First+%C2%B7+REST+APIs;Creator+of+Starvy+(3.2k%2B+Organic+Installs)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=1D70F5&center=true&vCenter=true&width=750&height=45&lines=Mobile+%26+Fullstack+Developer;Native+Android+(Kotlin)+%26+iOS+(Swift);Cross-Platform+Flutter+%26+Scalable+Backends;Clean+Architecture+%C2%B7+Offline-First+%C2%B7+MVVM;Creator+of+Starvy+(3.2k%2B+Organic+Installs)" alt="Typing SVG" />
 </a>
 
 </div>
@@ -20,13 +20,13 @@
     <td width="62%" valign="top" style="border: none; padding-right: 20px;">
       <h3>Engineering end-to-end mobile &amp; distributed systems.</h3>
       <p>
-        I am a <b>Mobile &amp; Fullstack Developer</b> specializing in engineering robust, high-performance applications—from native <b>Android (Kotlin, Jetpack Compose)</b> and cross-platform <b>Flutter</b> clients to scalable backend services in <b>Go</b> and <b>Python (Django Ninja)</b>.
+        I am a <b>Mobile &amp; Fullstack Developer</b> specializing in engineering robust, high-performance applications—across native <b>Android (Kotlin, Jetpack Compose)</b>, native <b>iOS (Swift, SwiftUI)</b>, cross-platform <b>Flutter</b>, and scalable backend services.
       </p>
       <p>
         My work emphasizes maintainable Clean Architecture, deterministic state management, responsive UI design, and resilient offline-first data handling that guarantees seamless user experience even with intermittent connectivity.
       </p>
       <ul>
-        <li><b>Mobile Engineering:</b> Native Android (Kotlin, Jetpack Compose) &amp; Cross-Platform (Flutter)</li>
+        <li><b>Mobile Engineering:</b> Native Android (Kotlin, Jetpack Compose), iOS (Swift, SwiftUI), and Flutter</li>
         <li><b>Fullstack &amp; Backend:</b> Go (Golang), Python (Django Ninja), React / Next.js, PostgreSQL, Docker</li>
         <li><b>Architecture &amp; Quality:</b> Clean Architecture, MVVM, Offline-First Sync, RESTful APIs</li>
         <li><b>Proven Traction:</b> Over 3,200+ organic Play Store installs &amp; deployed production web platforms</li>
@@ -63,10 +63,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/hafidz111">Danusan</a></h4>
-      <p><b>Integrated Campus Fundraising Infrastructure</b></p>
-      <p>End-to-end fundraising coordination engine built with high-throughput Go backend services, relational PostgreSQL schema, S3-compatible MinIO object storage, and a responsive frontend interface.</p>
-      <p><code>Go (Golang)</code> · <code>Next.js / React</code> · <code>PostgreSQL</code> · <code>MinIO S3</code> · <code>Docker</code></p>
+      <h4><a href="https://github.com/hafidz111/jelajah-dunia">Jelajah Dunia</a></h4>
+      <p><b>Native iOS Country Directory &amp; Knowledge Explorer</b></p>
+      <p>SwiftUI application crafted following Apple Human Interface Guidelines. Features an infinite-scroll country catalog, 350ms debounced live search via REST Countries API v5, offline favorites with UserDefaults, and clean MVVM architecture.</p>
+      <p><code>Swift</code> · <code>SwiftUI</code> · <code>MVVM</code> · <code>URLSession async/await</code> · <code>Kingfisher</code></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/hafidz111/flood-detection">Flood'nt</a></h4>
@@ -87,7 +87,7 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Mobile Engineering** | `Kotlin` · `Jetpack Compose` · `Android SDK` · `Flutter` · `Dart` |
+| **Mobile Engineering** | `Kotlin` · `Jetpack Compose` · `Swift` · `SwiftUI` · `Flutter` · `Dart` |
 | **Architecture & Local Data** | `Clean Architecture` · `MVVM` · `Room / SQLite` · `Offline-First Sync` · `State Management` |
 | **Backend & APIs** | `Python (Django Ninja)` · `Go (Golang)` · `REST APIs` · `PostgreSQL` · `Firebase` |
 | **Tools & Platforms** | `Git` · `Docker` · `Google Play Console` · `CI/CD Workflows` |
