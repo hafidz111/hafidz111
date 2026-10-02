@@ -49,10 +49,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/hafidz111">Starvy</a></h4>
-      <p><b>AI-Powered Mobile Chat &amp; Messaging Platform</b></p>
-      <p>Native Android conversational application integrating real-time messaging with contextual AI assistance. Achieved over <b>3,200+ organic downloads</b> on Google Play Store with sustained user retention.</p>
-      <p><code>Android (Kotlin)</code> · <code>AI Assistant Integration</code> · <code>Real-Time Messaging</code> · <code>REST API</code></p>
+      <h4><a href="https://github.com/hafidz111/balance_apps">Starvy</a></h4>
+      <p><b>Store Operations &amp; Daily Sales Reporting Platform</b></p>
+      <p>Cross-platform mobile solution replacing fragmented manual store reporting. Features multi-shift sales logging, automated APC &amp; metrics calculation, barcode scanning, photo grids, and instant WhatsApp dispatch. Achieved over <b>3,200+ organic downloads</b> on Google Play Store.</p>
+      <p><code>Flutter</code> · <code>Provider</code> · <code>Cloud Firestore</code> · <code>Firebase Auth</code> · <code>Google Mobile Ads</code></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/hafidz111/dicoding-jobs">Dicoding Jobs</a></h4>
