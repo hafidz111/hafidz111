@@ -49,13 +49,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/hafidz111/balance_apps">Starvy</a></h4>
+      <h4><a href="https://play.google.com/store/apps/details?id=com.titiksenyapstudio.balance&hl=id">Starvy</a></h4>
       <p><b>Store Operations &amp; Daily Sales Reporting Platform</b></p>
       <p>Cross-platform mobile solution replacing fragmented manual store reporting. Features multi-shift sales logging, automated APC &amp; metrics calculation, barcode scanning, photo grids, and instant WhatsApp dispatch. Achieved over <b>3,200+ organic downloads</b> on Google Play Store.</p>
       <p><code>Flutter</code> · <code>Provider</code> · <code>Cloud Firestore</code> · <code>Firebase Auth</code> · <code>Google Mobile Ads</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/hafidz111/dicoding-jobs">Dicoding Jobs</a></h4>
+      <h4><a href="https://dicodingjobs.vercel.app">Dicoding Jobs</a></h4>
       <p><b>Tech Career & Vacancy Exploration Platform</b></p>
       <p>Streamlined job discovery platform featuring intuitive search filtering, comprehensive job specifications, and responsive client-server communication backed by RESTful endpoints.</p>
       <p><code>TypeScript</code> · <code>React / Next.js</code> · <code>REST API</code> · <code>Tailwind CSS</code></p>
